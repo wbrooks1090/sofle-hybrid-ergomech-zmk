@@ -56,9 +56,9 @@ layers:
   - RET
   - DELETE
   - SPACE
-  - RCTRL
-  - RALT
-  - RGUI
+  - '['
+  - ']'
+  - Ctl+AGr+ RGUI
   - ENTER
   - RIGHT
   - UP ARROW
